@@ -2,4 +2,4 @@ This code uses Windows error sounds to generate music. First, randomly select th
 
 Then define the sampling frequency and note length to generate sample sounds with frequencies from 100 Hz to 8000 Hz. Then, use the melody and rhythm of each part to select segments from the sampled sounds and generate a musical composition.
 
-Finally, play the generated music.
+Finally, play the generated music(sounds).
